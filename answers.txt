@@ -4,9 +4,9 @@ Baerett Stone
 ===================================================
 
 
-1.) 3
-2.) 6
-3.) -2
+1.) 3 
+2.) 6 
+3.) -2 
 4.) -8
 5.) 26
 6.) 4
@@ -24,27 +24,27 @@ Baerett Stone
 18.) true
 19.) b = !(n==0)
 20.) b = (n < 3 || n > 5)
-21.) b = !(n==0)
+21.) b = !(n==0) (should be b=(n!=0))
 22.) !b
-23.) false
+23.) false (should be n == 4)
 24.) n > 5
 25.) false
 26.) n > 3
-27.) b = -1
+27.) b = -1 (should be b = 0)
 28.) y = 2
-29.) y = 2
-30.) y = -1;
+29.) y = 2 (should be 10)
+30.) y = -1; (should be 10)
 31.) 6
 32.) 12
 33.) 38
 34.) 115
 35.) 0
-36.) yes
-37.) no
-38.) no
-39.) yes
+36.) yes 
+37.) no 
+38.) no 
+39.) yes 
 40.) (Math.sqrt(Math.pow((x2-x1), 2) + Math.pow((y2-y1), 2)) >= r1 || Math.sqrt(Math.pow((x2-x1), 2) + Math.pow((y2-y1), 2)) >= r2)
-
+(^ 40 is wrong by a pretty long shot)
 
 41.) if(x1 >= x2)
      {
@@ -72,5 +72,7 @@ Baerett Stone
      }
      return false;
 
+(^ also wrong and should not be phrased as a snippet)
 
 
+(OVERALL GRADE: 82.9%)
